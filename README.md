@@ -14,18 +14,19 @@ Ensure you have the following installed:
 
 ---
 
-## 📝 Installation
+##  Installation
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/resume_project.git
-cd resume_project
+cd cv_resume
+cd my_cv
 ```
 
 ### 2️⃣ Create and Activate a Virtual Environment
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
 
 ### 3️⃣ Install Django
@@ -40,7 +41,7 @@ pip install Django
 ### Navigate to the Project Directory and Activate the Virtual Environment
 ```bash
 cd resume_project
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
 
 ### Run the Development Server
