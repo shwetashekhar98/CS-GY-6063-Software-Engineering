@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/resume_project.git
+git clone [https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git](https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git)
 cd cv_resume
 cd my_cv
 ```
@@ -46,7 +46,7 @@ source venv/bin/activate
 
 ### Run the Development Server
 ```bash
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 ### 3️⃣ Open Your Web Browser and Visit:
