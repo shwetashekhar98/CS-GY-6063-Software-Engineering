@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git](https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git)
+git clone https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git
 cd cv_resume
 cd my_cv
 ```
