@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git
 cd cv_resume
-cd my_cv
+cd mycv
 ```
 
 ### 2️⃣ Create and Activate a Virtual Environment
