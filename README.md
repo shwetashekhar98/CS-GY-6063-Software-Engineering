@@ -42,6 +42,6 @@ python manage.py runserver
 ```
 
 ### 3️⃣ Open Your Web Browser and Visit:
-[http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+[http://127.0.0.1:8000/cv](http://127.0.0.1:8000/cv)
 
 ---
