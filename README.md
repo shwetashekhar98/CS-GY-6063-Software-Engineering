@@ -1,6 +1,6 @@
 # Resume Project
 
-This is a **Django** project named **cv_resume**. This project is the submission for **Software Engineering Assignment 2 - Shweta CV**.
+This is a **Django** project named **cv_resume**. This project is the submission for **Software Engineering Assignment 1 - Shweta CV**.
 
 ---
 
