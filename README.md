@@ -40,7 +40,7 @@ pip install Django
 
 ### Navigate to the Project Directory and Activate the Virtual Environment
 ```bash
-cd resume_project
+cd cv_resume
 source venv/bin/activate 
 ```
 
