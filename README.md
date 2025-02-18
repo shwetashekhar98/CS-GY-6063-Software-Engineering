@@ -1,14 +1,10 @@
 # Resume Project
 
-This is a **Django** project named **resume_project**. This project is the submission for **Software Engineering Assignment 2 - Shweta CV**.
-
-## 📌 Getting Started
-
-Follow the instructions below to get a copy of the project up and running on your local machine.
+This is a **Django** project named **cv_resume**. This project is the submission for **Software Engineering Assignment 2 - Shweta CV**.
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 Ensure you have the following installed:
 
@@ -39,15 +35,15 @@ pip install Django
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
-### 1️⃣ Navigate to the Project Directory and Activate the Virtual Environment
+### Navigate to the Project Directory and Activate the Virtual Environment
 ```bash
 cd resume_project
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
-### 2️⃣ Run the Development Server
+### Run the Development Server
 ```bash
 python3 manage.py runserver
 ```
