@@ -1,6 +1,6 @@
 # Resume Project
 
-This is a **Django** project named **cv_resume**. This project is the submission for **Software Engineering Assignment 1 - Shweta CV**.
+This is a **Django** based project **CV Resume**. This project is the submission for **Software Engineering Individual Assignment 1 CV**.
 
 ---
 
@@ -8,28 +8,21 @@ This is a **Django** project named **cv_resume**. This project is the submission
 
 Ensure you have the following installed:
 
-- **Python 3.x**
+- **Python**
 - **Django**
-- **Virtualenv**
 
 ---
 
 ##  Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/shwetashekhar98/CS-GY-6063-Software-Engineering.git
 cd cv_resume
 cd mycv
 ```
 
-### 2️⃣ Create and Activate a Virtual Environment
-```bash
-python -m venv cv_resume
-source cv_resume/bin/activate 
-```
-
-### 3️⃣ Install Django
+### Install Django
 ```bash
 pip install django
 ```
@@ -41,7 +34,7 @@ pip install django
 python manage.py runserver
 ```
 
-### 3️⃣ Open Your Web Browser and Visit:
+### To Open Your Web Browser and Visit the below URL to check the resume website:
 [http://127.0.0.1:8000/cv](http://127.0.0.1:8000/cv)
 
 ---
