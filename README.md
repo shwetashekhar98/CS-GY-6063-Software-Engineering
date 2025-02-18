@@ -31,7 +31,7 @@ source cv_resume/bin/activate
 
 ### 3️⃣ Install Django
 ```bash
-pip install Django
+pip install django
 ```
 
 ---
